@@ -1,3 +1,4 @@
 # Demoapp
 
-Dies ist ein sehr **einfacher** Taschenrechner entwickelt zur bildlichen Darstellung meiner Projektarbeit 2. 
+Dies ist ein sehr **einfacher** Taschenrechner. <br>
+Dieser wurde entwickelt zur bildlichen Darstellung meiner Projektarbeit 2. 
